@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Hello World!"
+    return "<img src='https://i.gifer.com/1ws.gif'>"
 
 
 
